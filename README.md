@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://suzumilu.github.io/.github/softraid">  
+<a href="https://christalse0404.github.io/.github/softraid">  
 <img src="https://img.shields.io/badge/GET_SoftRAID-darkgreen?style=for-the-badge&logo=apple" alt="GET SoftRAID">  
 </a>  
 </div>  
